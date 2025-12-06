@@ -109,8 +109,8 @@
                     </view>
                     <connections>
                         <outlet property="counterLabel" destination="WbB-mF-n7u" id="4aw-fx-Ozn"/>
-                        <outlet property="imageView" destination="Uum-uk-awb" id="Thi-j6-Eju"/>
-                        <outlet property="textLabel" destination="Dup-MD-bey" id="eOX-Yc-4It"/>
+                        <outlet property="filmImage" destination="Uum-uk-awb" id="7wD-UW-gaE"/>
+                        <outlet property="questionLabel" destination="Dup-MD-bey" id="ggp-IH-CcM"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
